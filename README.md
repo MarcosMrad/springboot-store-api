@@ -1,4 +1,4 @@
-Este é um projeto de API RESTful desenvolvido com Spring Boot. O sistema simula uma loja online com funcionalidades básicas como gerenciamento de usuários, produtos, pedidos e categorias.
+Este é um projeto de API RESTful desenvolvido com Spring Boot. O sistema simula uma loja online com funcionalidades como gerenciamento de usuários, produtos, pedidos e categorias.
 
 ## 🚀 Tecnologias utilizadas
 
