@@ -20,6 +20,9 @@ Este é um projeto de API RESTful desenvolvido com Spring Boot. O sistema simula
   
 ## 🧪 Endpoints Exemplos
 GET /users – Lista todos os usuários
+
 POST /products – Cria um novo produto
+
 GET /orders/{id} – Detalhes de um pedido
+
 DELETE /categories/{id} – Remove uma categoria
